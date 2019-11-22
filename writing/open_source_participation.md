@@ -13,16 +13,16 @@ you use the link feature of the Markdown language for technical writing.
 
 ## Using one paragraph, describe the first open-source project that you studied
 
-Please provide a response to this question.
+TODO: Please provide a response to this question.
 
 ## Using one paragraph, describe the second open-source project that you studied
 
-Please provide a response to this question.
+TODO: Please provide a response to this question.
 
 ## Using one paragraph, describe the third open-source project that you studied
 
-Please provide a response to this question.
+TODO: Please provide a response to this question.
 
 ## What did you learn through the experience of installing and using one of these programs?
 
-Please provide a response to this question.
+TODO: Please provide a response to this question.
